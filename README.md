@@ -5,7 +5,7 @@ of the restaurant can also manage the orders from the backend.
 Daniel Mwithui
 
 # Technologies used
-1.HTML5
+## 1.HTML5
 2.CSS3
 3.PHP
 5.MYSQL database
